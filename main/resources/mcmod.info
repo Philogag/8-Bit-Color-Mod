@@ -1,0 +1,13 @@
+[
+{
+  "modid": "fcbm",
+  "name": "Full Color Block Mod",
+  "description": "全颜色方块Mod, 像素图专用",
+  "url":"None",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "authorList": ["Philogag"],
+  "logoFile": "",
+  "dependencies": []
+}
+]
